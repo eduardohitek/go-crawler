@@ -1,2 +1,2 @@
 # go-crawler
-an webcrawler written in go
+A webcrawler written in go
